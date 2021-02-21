@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+
 const StorySchema = new mongoose.Schema({
     title: {
         type: String,
@@ -21,7 +22,7 @@ const StorySchema = new mongoose.Schema({
 
     },
     createdAt: {
-        type: Date,
+        type: Date, 
         default: Date.now
     }
 });

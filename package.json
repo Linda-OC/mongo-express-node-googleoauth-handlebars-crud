@@ -1,5 +1,5 @@
 {
-  "name": "wiki-traversy",
+  "name": "mongo-express-node-googleoauth-crud-app",
   "version": "1.0.0",
   "description": "CRUD app using Mongo Express Node GoogleAuth Handlebars",
   "main": "app.js",
